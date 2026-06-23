@@ -1,0 +1,28 @@
+# Node Modules
+node_modules/
+
+# Build Folder
+dist/
+build/
+
+# Environment File
+.env
+
+# Visual Studio
+.vs/
+
+# VS Code
+.vscode/
+
+# Log Files
+*.log
+
+# Temporary Files
+*.tmp
+
+# Bin & Obj
+bin/
+obj/
+
+# Package Lock (optional)
+package-lock.json
